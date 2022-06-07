@@ -1,0 +1,111 @@
+* {
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    margin: 0;
+    padding: 0;
+    font-size: 13px;
+
+}
+th p {
+    text-align: center;
+    
+}
+
+.logo {
+width:50px;
+height:50px;
+}
+.photo {
+    width: 70px;
+    height: 70px;
+}
+
+
+
+
+.table {
+    min-width: 850px;
+    
+}
+
+
+table,tr,td {
+    border:0.5px solid black;
+    border-collapse: collapse;
+   
+  
+    
+}
+
+
+.table2,.table2 td,.table2 tr {
+
+    border: 0.5px solid black;
+}
+
+
+.table2 {
+    
+    min-width: 100%;
+    
+}
+.table1 td {
+   padding: 6px 4px;
+}
+
+.table2 td {
+   text-align: center;
+   padding: 2px;
+   border: 0px solid black;
+   border-right: 1px solid black;
+   height: 45px;
+   
+}
+.table2 tr {
+    border: 0px solid black;
+}
+
+.bold {
+   font-weight: bold;
+}
+
+
+
+.table3 {
+width: 800px;
+}
+.mid-table td {
+  text-align: center;
+  height: 40px;
+}
+.footer {
+
+height: 98px;
+text-align: center;
+padding: 2px;
+vertical-align: bottom;
+
+}
+.inst{
+padding: 5px;
+height: 50px;
+}
+
+.subtitle {
+width: 473px;
+}
+.sem {
+    width: 50px;
+}
+.subcode {
+    width: 107px;
+}
+.grade {
+    width: 72px;
+}
+.result {
+    width: 72px;
+}

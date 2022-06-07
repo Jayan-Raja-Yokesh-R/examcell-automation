@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+  
+}
+.navbar-nav {
+    margin-right: 13%;
+}
+.container {
+    height: 100%;
+}
+
+.form-container {
+    width: 30%;
+    margin: 20px;
+}
+input {
+    margin: 5px;
+}
+.form-control {
+    height: 40px;
+    width: 150px;
+}
+.form-container form input {
+    width: 100%;
+}

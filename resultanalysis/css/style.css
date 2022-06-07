@@ -1,0 +1,33 @@
+body {
+    height: 100%;
+}
+table,tr,td {
+
+    border: 1px solid black;
+    border-collapse: collapse;
+    
+   
+
+}
+td {
+
+    height: 58px;
+    padding: 3px;
+}
+.bold {
+    font-weight: bold;
+}
+.footer {
+    border:0px solid black;
+    margin: 50px;
+    width: 100%;
+    text-align: center;
+}
+.footer td {
+    padding: 10px;
+}
+.footer tr,.footer td {
+    border:0px solid black;
+}
+
+

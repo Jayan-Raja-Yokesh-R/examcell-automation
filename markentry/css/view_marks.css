@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+  
+}
+.navbar-nav {
+    margin-right: 13%;
+}
+.container {
+    height: 100%;
+}
+
+.form-container {
+    margin: 20px;
+    width: 30%;
+}
+input {
+    margin: 5px;
+}
+.form-control {
+    width: 50px;
+   margin: 5px;
+}

@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+.navbar-nav {
+    margin-right: 13%;
+}
+.container {
+    height: 100%;
+}
+
+.form-container {
+    margin: 20px;
+}
+input {
+    margin: 5px;
+}

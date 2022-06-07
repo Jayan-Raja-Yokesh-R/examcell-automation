@@ -1,0 +1,73 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+}
+body {
+
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    overflow: hidden;
+}
+.form-header {
+    background-color: #655D8A;
+    width: 100%;
+    text-align: center;
+    color: white;
+    padding: 5px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+label {
+    font-weight: 600;
+}
+.login-box {
+
+    display: flex;
+    align-items:center;
+    flex-direction: column;
+    height: 400px;
+    width: 350px;
+    background-color: thistle;
+    border-radius: 10px;
+    padding: 10px;
+    
+}
+.container {
+
+    display: flex;
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
+input[type="text"],.semester{
+
+    border:none;
+    outline: none;
+    border-bottom: 1px solid thistle;
+    padding: 10px;
+    width: 80%;
+    border-radius: 5px;
+    margin: 10px;
+    
+}
+
+input[type="submit"] {
+    margin: 10px;
+    width: 50%;
+    height: 50px;
+    background-color: #655D8A;
+
+}
+.header {
+    display:flex;
+    justify-content: center;
+}
+.logo {
+    width: 70px;
+    height: 70px;
+}

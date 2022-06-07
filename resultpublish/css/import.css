@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+.navbar-nav {
+    margin-right: 13%;
+}
+.container {
+    
+   
+    height: 100%;
+}
+.cont {
+
+   height: 60%;
+}
+
+.form-container:not(.form-container:last-child) {
+    margin: 20px;
+    border-bottom: 0.5px solid black;
+    padding: 5px;
+     
+}
+input {
+    margin: 5px;
+}
+.sub-container {
+   display: flex;
+   height: 100% !important;
+   flex-direction: column;
+   
+
+}
